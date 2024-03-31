@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: rgba(82, 220, 255, 0.637);
+}
+
+.main{
+    gap: 20vh;
+    position: relative;
+    padding: 5vh;
+    display: flex;
+    align-items: center;
+}
+
+.first{
+    position: absolute;
+    top: 10vh;
+    left: 5vh;
+    width: 80vh;
+}
+
+.second{
+    width: 80vh;
+    position: absolute;
+    left: 5vh;
+    top: 10vh;
+}
+
+.third{
+    width: 80vh;
+    position: absolute;
+    left: 5vh;
+    top: 10vh;
+}
+
+.fourth{
+    width: 80vh;
+    position: absolute;
+    top: 10vh;
+    left: 5vh;
+}
